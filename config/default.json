@@ -1,0 +1,8 @@
+{
+    "app":{
+        "port": 6000
+    },
+    "jwt_secret": {
+        "access": "a9c338815cb60753014be38f74ad8e55b9fb395324e0774f6223357649490fba9c477982a4280117871bb732f7acbc4333ea176bf678ed21f851fdc9fd7fbe1e"
+    }
+}
